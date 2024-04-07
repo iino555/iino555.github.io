@@ -1,0 +1,6 @@
+label: "内置方法"
+position: 1
+collapsible: true
+collapsed: false
+link:
+  type: "generated-index"
