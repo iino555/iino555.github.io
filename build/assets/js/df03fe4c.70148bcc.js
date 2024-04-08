@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiino555_github_io=self.webpackChunkiino555_github_io||[]).push([[6966],{7367:e=>{e.exports=JSON.parse('{"title":"Vue2","slug":"/category/vue2","permalink":"/docs/category/vue2","navigation":{"next":{"title":"\u5185\u7f6e\u65b9\u6cd5","permalink":"/docs/category/\u5185\u7f6e\u65b9\u6cd5"}}}')}}]);

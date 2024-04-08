@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiino555_github_io=self.webpackChunkiino555_github_io||[]).push([[5151],{350:e=>{e.exports=JSON.parse('[{"label":"Vue2","permalink":"/docs/tags/vue-2","count":27}]')}}]);
